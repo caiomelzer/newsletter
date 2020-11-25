@@ -1,0 +1,237 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 663px;
+	 height: 1690px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 663px;
+	 height: 1690px;
+	 z-index:1;
+} 
+
+ #timeline 
+{ 
+	 left: 16px; 
+	 top: 594px; 
+	 position: absolute; 
+	 width: 631px;
+	 height: 1048px;
+	 z-index:2;
+} 
+
+ #Layer8 
+{ 
+	 left: 299px; 
+	 top: 1101px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:3;
+} 
+
+ #Layer9 
+{ 
+	 left: 299px; 
+	 top: 1007px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:4;
+} 
+
+ #Layer5 
+{ 
+	 left: 299px; 
+	 top: 1191px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:5;
+} 
+
+ #Layer6 
+{ 
+	 left: 300px; 
+	 top: 1285px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:6;
+} 
+
+ #Layer7 
+{ 
+	 left: 300px; 
+	 top: 1396px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:7;
+} 
+
+ #layer_1 
+{ 
+	 left: 300px; 
+	 top: 632px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:8;
+} 
+
+ #Layer1 
+{ 
+	 left: 299px; 
+	 top: 1490px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:9;
+} 
+
+ #Layer2 
+{ 
+	 left: 300px; 
+	 top: 904px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:10;
+} 
+
+ #Layer3 
+{ 
+	 left: 300px; 
+	 top: 814px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:11;
+} 
+
+ #Layer4 
+{ 
+	 left: 300px; 
+	 top: 723px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 52px;
+	 z-index:12;
+} 
+
+ #logo 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 663px;
+	 height: 252px;
+	 z-index:13;
+} 
+
+ #alertas 
+{ 
+	 left: 15px; 
+	 top: 503px; 
+	 position: absolute; 
+	 width: 636px;
+	 height: 27px;
+	 z-index:14;
+} 
+
+ #incidentes 
+{ 
+	 left: 13px; 
+	 top: 413px; 
+	 position: absolute; 
+	 width: 640px;
+	 height: 31px;
+	 z-index:15;
+} 
+
+ #incidentestabela 
+{ 
+	 left: 15px; 
+	 top: 444px; 
+	 position: absolute; 
+	 width: 638px;
+	 height: 5px;
+	 z-index:16;
+} 
+
+ #alertastabela 
+{ 
+	 left: 15px; 
+	 top: 530px; 
+	 position: absolute; 
+	 width: 638px;
+	 height: 5px;
+	 z-index:17;
+} 
+
+ #data 
+{ 
+	 left: 0px; 
+	 top: 252px; 
+	 position: absolute; 
+	 width: 663px;
+	 height: 36px;
+	 z-index:18;
+} 
+
+ #visaogeral 
+{ 
+	 left: 0px; 
+	 top: 307px; 
+	 position: absolute; 
+	 width: 663px;
+	 height: 85px;
+	 z-index:19;
+} 
+
+ #visaogeralmotores 
+{ 
+	 left: 454px; 
+	 top: 349px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 38px;
+	 z-index:20;
+} 
+
+ #visaogeralcaptura 
+{ 
+	 left: 235px; 
+	 top: 349px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 38px;
+	 z-index:21;
+} 
+
+ #visaogeralroteirizac 
+{ 
+	 left: 16px; 
+	 top: 349px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 38px;
+	 z-index:22;
+} 
